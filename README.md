@@ -1,16 +1,16 @@
 ## Hi there 👋
+## 🧩 LeetCode Stats & Activity
 
-<!--
-**mahendra20092006mca28-ui/mahendra20092006mca28-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://leetcode.com/u/Mahendran2009/">
+    <img src="https://leetcard.jacoblin.cool/MohanK_2026?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://leetcode.com/u/MohanK_2026/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile_View-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
